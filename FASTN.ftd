@@ -1,0 +1,19 @@
+-- import: fastn
+
+-- fastn.package: apneduniya.github.io/test
+favicon: /-/apneduniya.github.io/test/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: apneduniya.github.io/test/FASTN/ds
+-- fastn.auto-import: apneduniya.github.io/test/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
